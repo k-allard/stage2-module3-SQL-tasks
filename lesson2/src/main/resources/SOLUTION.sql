@@ -38,6 +38,6 @@ INSERT INTO mark (id, student_id, subject_id, mark) VALUES (1, 2, 1, 8);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (2, 4, 4, 5);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (3, 9, 5, 9);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (4, 8, 6, 4);
-INSERT INTO mark (id, student_id, subject_id, mark) VALUES (5, 9, 3, 9);
+INSERT INTO mark (id, student_id, subject_id, mark) VALUES (5, 5, 3, 9);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (6, 13, 7, 10);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (7, 12, 8, 10);
