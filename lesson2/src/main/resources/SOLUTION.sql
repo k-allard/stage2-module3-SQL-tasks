@@ -12,12 +12,12 @@ insert into student (id, name, birthday, groupnumber) values (11, 'Stella', '197
 insert into student (id, name, birthday, groupnumber) values (12, 'Helen', '1974-03-09', 5);
 insert into student (id, name, birthday, groupnumber) values (13, 'Rose', '1974-03-09', 5);
 
-INSERT INTO subject (id, name, grade) VALUES (1, 'art', 1);
+INSERT INTO subject (id, name, grade) VALUES (1, 'Art', 1);
 INSERT INTO subject (id, name, grade) VALUES (2, 'music', 1);
-INSERT INTO subject (id, name, grade) VALUES (3, 'geography', 2);
-INSERT INTO subject (id, name, grade) VALUES (4, 'history', 2);
+INSERT INTO subject (id, name, grade) VALUES (3, 'Geography', 2);
+INSERT INTO subject (id, name, grade) VALUES (4, 'History', 2);
 INSERT INTO subject (id, name, grade) VALUES (5, 'PE', 3);
-INSERT INTO subject (id, name, grade) VALUES (6, 'math', 3);
+INSERT INTO subject (id, name, grade) VALUES (6, 'Math', 3);
 INSERT INTO subject (id, name, grade) VALUES (7, 'science', 4);
 INSERT INTO subject (id, name, grade) VALUES (8, 'IT', 4);
 INSERT INTO subject (id, name, grade) VALUES (9, 'dancing', 5);
@@ -38,6 +38,6 @@ INSERT INTO mark (id, student_id, subject_id, mark) VALUES (1, 2, 1, 8);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (2, 4, 4, 5);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (3, 5, 3, 9);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (4, 8, 6, 4);
-INSERT INTO mark (id, student_id, subject_id, mark) VALUES (5, 9, 5, 9);
+INSERT INTO mark (id, student_id, subject_id, mark) VALUES (5, 9, 3, 9);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (6, 13, 7, 10);
 INSERT INTO mark (id, student_id, subject_id, mark) VALUES (7, 12, 8, 10);
